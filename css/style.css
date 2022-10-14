@@ -1311,10 +1311,10 @@ h3 {
   bottom: 0;
   transform: rotate(315deg);
 }
-.nav-list__item--menu.active .nav-list__item-link:after {
+.nav-list__item--menu.open .nav-list__item-link:after {
   transform: rotate(135deg);
 }
-.nav-list__item--menu.active .menu {
+.nav-list__item--menu.open .menu {
   display: flex;
 }
 /* #m1300 */
